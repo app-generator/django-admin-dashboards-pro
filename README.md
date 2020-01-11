@@ -18,7 +18,7 @@ Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. 
 
 <br />
 
-![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-intro.gif)
+![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
 
 <br />
 
@@ -36,7 +36,7 @@ Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-intro.gif)
+![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
 
 <br />
 
