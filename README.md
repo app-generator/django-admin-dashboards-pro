@@ -1,5 +1,12 @@
 # [PRO Django Dashboards](https://appseed.us/admin-dashboards/django) 
 
+Speed up your development with **Premium UI Kits** coded in **Django** Framework. **Common features**: 
+
+- Clean code-base, UI-ready apps
+- Session-Based Authentication Flow (Login, Register) 
+- SQLite,Native Django ORM, helpers 
+- **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
+
 Speed up your development with **Premium UI Kits** coded in **Django** Framework. **Common features**: authentication, database, ORM, helpers, clean code-base and deployment scripts - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup)).
 
 <br />
@@ -18,7 +25,7 @@ Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. 
 
 <br />
 
-![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
+![Django Dashboard Dashkit PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
 
 <br />
 
@@ -36,7 +43,7 @@ Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
+![Django Dashboard Black PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
 
 <br />
 
@@ -54,7 +61,7 @@ Admin Dashboard coded in **Django Framework** on top of **Material Dashboard PRO
 
 <br />
 
-![Django Dashboard Material PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen.png)
+![Django Dashboard Material PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-pro-screen.png)
 
 <br />
 
@@ -72,7 +79,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Argon PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
+![Django Dashboard Argon PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
 
 <br />
 
@@ -90,7 +97,7 @@ Admin Dashboard coded in **Django Framework** on top of **NowUI Dashboard PRO** 
 
 <br />
 
-![Django Dashboard NowUI PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-pro-screen.png)
+![Django Dashboard NowUI PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-pro-screen.png)
 
 <br />
 
@@ -108,7 +115,7 @@ Admin Dashboard coded in **Django Framework** on top of **Paper Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Paper PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-paper-pro-screen.png)
+![Django Dashboard Paper PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-paper-pro-screen.png)
 
 <br />
 
@@ -126,7 +133,7 @@ Admin Dashboard coded in **Django Framework** on top of **Light Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Light PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-pro-screen.png)
+![Django Dashboard Light PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-pro-screen.png)
 
 <br />
 
