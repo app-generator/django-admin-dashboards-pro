@@ -1,4 +1,4 @@
-# [PRO Django Dashboards](https://appseed.us/admin-dashboards/django) 
+# [PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro) 
 
 Speed up your development with **Premium UI Kits** coded in **Django** Framework. **Common features**: 
 
@@ -138,4 +138,4 @@ Admin Dashboard coded in **Django Framework** on top of **Light Dashboard PRO** 
 <br />
 
 --- 
-**[PRO Django Dashboards](https://appseed.us/admin-dashboards/django)** provided by **AppSeed**
+**[PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)** provided by **AppSeed**
