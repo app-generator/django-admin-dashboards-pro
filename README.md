@@ -14,7 +14,7 @@ Speed up your development with **Premium UI Kits** coded in **Django** Framework
 
 ## [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) - [LIVE Demo](https://django-dashboard-dashkit-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Dashkit PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Dashkit PRO** provided by **CssNinja**
 - SQLite, native ORM
@@ -32,7 +32,7 @@ Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. 
 
 ## [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) - [LIVE Demo](https://django-dashboard-black-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Black Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -50,7 +50,7 @@ Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** 
 
 ## [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - [LIVE Demo](https://django-dashboard-material-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Material Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Material Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Material Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -68,7 +68,7 @@ Admin Dashboard coded in **Django Framework** on top of **Material Dashboard PRO
 
 ## [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)- [LIVE Demo](https://django-dashboard-argon-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Argon Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: [Argon Dashboard Pro](https://www.creative-tim.com/product/material-dashboard-pro) provided by **Creative-Tim**
 - SQLite, native ORM
@@ -86,7 +86,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 
 ## [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro) - [LIVE Demo](https://django-dashboard-nowui-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **NowUI Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **NowUI Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **NowUI Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -104,7 +104,7 @@ Admin Dashboard coded in **Django Framework** on top of **NowUI Dashboard PRO** 
 
 ## [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - [LIVE Demo](https://django-dashboard-paper-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Paper Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Paper Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Paper Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -122,7 +122,7 @@ Admin Dashboard coded in **Django Framework** on top of **Paper Dashboard PRO** 
 
 ## [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) - [LIVE Demo](https://django-dashboard-light-pro.appseed.us/login/)
 
-Admin Dashboard coded in **Django Framework** on top of **Light Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Light Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
