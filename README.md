@@ -139,6 +139,9 @@ Admin Dashboard coded in **Django Framework** on top of **Light Dashboard PRO** 
 <br />
 
 ### Credits & Links
+---
+
+<br />
 
 **What is [Django](https://www.djangoproject.com/)**
 
