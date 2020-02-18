@@ -8,8 +8,6 @@ Speed up your development with **Premium UI Kits** coded in **[Django Framework]
 - **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
 - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
 
-Speed up your development with **Premium UI Kits** coded in **Django** Framework. **Common features**: authentication, database, ORM, helpers, clean code-base and deployment scripts - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup)).
-
 <br />
 
 ## [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) - [LIVE Demo](https://django-dashboard-dashkit-pro.appseed.us/login/)
