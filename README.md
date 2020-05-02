@@ -10,6 +10,42 @@ Speed up your development with **Premium UI Kits** coded in **[Django Framework]
 
 <br />
 
+## [Django DattaAble Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro) - [LIVE Demo](https://django-dashboard-dattaable-dark-pro.appseed.us/login/)
+
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble Dark PRO** design. **Features**:
+
+- UI-Ready PRO Kit: **DattaAble dark PRO** provided by **CodedThemes**
+- SQLite, native ORM
+- Clean code-base and modular design
+- Session-Based authentication (login, register), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+- [Commercial License](./LICENSE.md)
+
+<br />
+
+![Django Dashboard DattaAble dark PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable-dark-pro/django-dashboard-dattaable-dark-pro-screen.png)
+
+<br />
+
+## [Django Dashboard DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) - [LIVE Demo](https://django-dashboard-dattaable-pro.appseed.us/login/)
+
+Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble PRO** design. **Features**:
+
+- UI-Ready PRO Kit: **DattaAble PRO** provided by **CodedThemes**
+- SQLite, native ORM
+- Clean code-base and modular design
+- Session-Based authentication (login, register), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+- [Commercial License](./LICENSE.md)
+
+<br />
+
+![Django Dashboard DattaAble PRO - Admin Panel coded in Django Framework.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable-pro/django-dashboard-dattaable-pro-screen-1.png)
+
+<br />
+
 ## [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) - [LIVE Demo](https://django-dashboard-dashkit-pro.appseed.us/login/)
 
 Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Dashkit PRO** design. **Features**:
