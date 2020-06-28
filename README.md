@@ -1,12 +1,32 @@
-# [PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro) 
+# Premium [Django Dashboards](https://appseed.us/admin-dashboards/django) 
 
-Speed up your development with **Premium UI Kits** coded in **[Django Framework](https://www.djangoproject.com/)**. Features: 
+> Commercial products - **Django Admin Dashboards** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features: 
 
-- Clean code-base, UI-ready apps
-- Session-Based Authentication Flow (Login, Register) 
-- SQLite,Native Django ORM, helpers 
-- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
-- **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
+- Premium UI Kits - actively supported by [AppSeed partners](https://appseed.us/partners)
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+## [Django Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - [LIVE Demo](https://django-material-dashboard-wpx-pro.appseed.us/)
+
+> Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- UI Kit: **MaterialPro Dashboard** (Premium Version) by **WrapPixel**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+![Django Material Dashboard PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-material-dashboard-wpx-pro/master/media/django-material-dashboard-wpx-pro-screen.png)
 
 <br />
 
