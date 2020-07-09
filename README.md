@@ -12,7 +12,7 @@
 
 <br />
 
-## [Django Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - [LIVE Demo](https://django-material-dashboard-wpx-pro.appseed.us/)
+## [Django Dashboard - Material PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
 
 > Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -30,9 +30,9 @@
 
 <br />
 
-## [Django DattaAble Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro) - [LIVE Demo](https://django-dashboard-dattaable-dark-pro.appseed.us/login/)
+## [Django Dashboard - DattaAble Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble Dark PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble Dark PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **DattaAble dark PRO** provided by **CodedThemes**
 - SQLite, native ORM
@@ -48,9 +48,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) - [LIVE Demo](https://django-dashboard-dattaable-pro.appseed.us/login/)
+## [Django Dashboard - DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **DattaAble PRO** provided by **CodedThemes**
 - SQLite, native ORM
@@ -66,9 +66,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) - [LIVE Demo](https://django-dashboard-dashkit-pro.appseed.us/login/)
+## [Django Dashboard - Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Dashkit PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Dashkit PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Dashkit PRO** provided by **CssNinja**
 - SQLite, native ORM
@@ -84,9 +84,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) - [LIVE Demo](https://django-dashboard-black-pro.appseed.us/login/)
+## [Django Dashboard - Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Black Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -102,9 +102,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - [LIVE Demo](https://django-dashboard-material-pro.appseed.us/login/)
+## [Django Dashboard - Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Material Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Material Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Material Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -120,9 +120,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)- [LIVE Demo](https://django-dashboard-argon-pro.appseed.us/login/)
+## [Django Dashboard - Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Argon Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Argon Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: [Argon Dashboard Pro](https://www.creative-tim.com/product/material-dashboard-pro) provided by **Creative-Tim**
 - SQLite, native ORM
@@ -138,9 +138,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro) - [LIVE Demo](https://django-dashboard-nowui-pro.appseed.us/login/)
+## [Django Dashboard - Now UI PRO Design](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **NowUI Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **NowUI Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **NowUI Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -156,9 +156,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - [LIVE Demo](https://django-dashboard-paper-pro.appseed.us/login/)
+## [Django Dashboard - Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Paper Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Paper Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Paper Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -174,9 +174,9 @@ Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** 
 
 <br />
 
-## [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) - [LIVE Demo](https://django-dashboard-light-pro.appseed.us/login/)
+## [Django Dashboard - Light PRO Design](https://appseed.us/admin-dashboards/django-dashboard-light-pro)
 
-Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Dashboard PRO** design. **Features**:
+> Admin Dashboard coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: **Light Dashboard PRO** provided by **Creative-Tim**
 - SQLite, native ORM
@@ -210,4 +210,4 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 <br />
 
 --- 
-**[PRO Django Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)** provided by **AppSeed**
+Premium [Django Dashboards](https://appseed.us/admin-dashboards/django) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
